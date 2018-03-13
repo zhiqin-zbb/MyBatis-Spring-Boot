@@ -21,19 +21,19 @@ GitHub项目：https://github.com/mybatis-book/book
 <dependency>
     <groupId>org.mybatis.spring.boot</groupId>
     <artifactId>mybatis-spring-boot-starter</artifactId>
-    <version>1.1.1</version>
+    <version>1.3.1</version>
 </dependency>
 <!--mapper-->
 <dependency>
     <groupId>tk.mybatis</groupId>
     <artifactId>mapper-spring-boot-starter</artifactId>
-    <version>1.1.1</version>
+    <version>1.2.4</version>
 </dependency>
 <!--pagehelper-->
 <dependency>
     <groupId>com.github.pagehelper</groupId>
     <artifactId>pagehelper-spring-boot-starter</artifactId>
-    <version>1.1.1</version>
+    <version>1.2.3</version>
 </dependency>
 ```
 ## Spring DevTools 配置
@@ -118,4 +118,4 @@ pagehelper:
 
 - 作者邮箱：abel533@gmail.com
 
-- Mybatis工具群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7c2f018e4cddc7d4aad04fc312b2d69361a0a896a4f59219a7914953a57bffc2"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Mybatis工具群" title="Mybatis工具群"></a>
+- 如需加群，请通过 http://mybatis.tk 首页按钮加群。
